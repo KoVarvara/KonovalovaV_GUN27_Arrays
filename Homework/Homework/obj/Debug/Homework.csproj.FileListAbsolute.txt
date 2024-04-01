@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Arrays\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Arrays\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Arrays\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Arrays\Homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Arrays\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Arrays\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Arrays\Homework\Homework\obj\Debug\Homework.pdb
